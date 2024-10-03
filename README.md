@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saraatolba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saraatolba" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?hl=en&user=ILmZAy8AAAAJ" title="Google Scholar" target="blank"><img align="center" src="https://spng.pngfind.com/pngs/s/507-5077250_icon-google-scholar-logo-hd-png-download.png" alt="ssddss" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?hl=en&user=ILmZAy8AAAAJ" title="Google Scholar" target="blank"><img align="center" src="[https://spng.pngfind.com/pngs/s/507-5077250_icon-google-scholar-logo-hd-png-download.png](https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg)" alt="GoogleScholar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
