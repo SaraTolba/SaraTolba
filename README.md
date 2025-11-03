@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/saraatolba" target="blank"><img src="https://img.shields.io/twitter/follow/saraatolba?logo=twitter&style=for-the-badge" alt="saraatolba" /></a> </p>
 
-- ⚡ Fun fact **I love Pasta**
+- ⚡ Fun fact: 73 is the best number. It is the 21st prime number, 21's mirror 12, 12th prime is 37, mirror of 73. Again, 21 is equals to 7×3, ie. 7 and 3. **Dr Sheldon Cooper**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
